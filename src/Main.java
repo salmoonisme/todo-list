@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class Main {
+public class  Main {
 
     // make global variable to store todo list in an array
     public static String[] data = new String[5];
